@@ -1,1 +1,1 @@
-# week1--smart-water-pollution-monitoring-
+This preprocessing script is designed to prepare the raw water quality dataset for further analysis in the Smart Water Pollution Monitoring project. The dataset contains water quality parameters such as pH, turbidity, temperature, dissolved oxygen (DO), biological oxygen demand (BOD), and heavy metal concentrations (Lead, Mercury, Arsenic) along with timestamp, location, and pollution level.
